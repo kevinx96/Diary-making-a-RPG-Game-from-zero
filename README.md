@@ -17,9 +17,6 @@
 ![The cursor cool as f*ck](images/d3cursor.png)
 ![do mind the names](images/d3partylgc.png)
 
-## Day4
-用RPGmaker感觉在屎山雕花，已卸载，已严肃下载godot
-![Ahell yeah](images/d3godot.png)
 
 ## Day4
 用RPGmaker感觉在屎山雕花，已卸载，已严肃下载godot
