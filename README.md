@@ -30,3 +30,7 @@
 已写出传送逻辑和物件遮挡/碰撞逻辑
 期间发现写完队伍无法关联成员了，学会了删除.godot一键修复bug
 ![why is this making bugs](images/d6teleport.png)
+
+## Day7
+把codex扔到垃圾桶，它推荐的逻辑导致的我队伍无法关联成员
+狗屎codex不懂装懂，还是自己写的代码可靠
