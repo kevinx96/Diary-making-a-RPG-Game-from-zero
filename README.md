@@ -40,3 +40,7 @@
 还有对话的json大全，后来搭建半天感觉不如用别人已经做好的
 先从对话开始吧
 ![That was easy](images/d7dialoge.png)
+
+## Day8.5
+这插件真好用，立绘还能差分
+![That was easy](images/d7.5dialoge.png)
