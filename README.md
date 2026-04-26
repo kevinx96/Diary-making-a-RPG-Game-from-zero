@@ -34,3 +34,9 @@
 ## Day7
 把codex扔到垃圾桶，它推荐的逻辑导致的我队伍无法关联成员
 狗屎codex不懂装懂，还是自己写的代码可靠
+
+## Day8
+鸽了快一周，主要进展也不是能看见的，试着设定Eventbus/State/Dictionary
+还有对话的json大全，后来搭建半天感觉不如用别人已经做好的
+先从对话开始吧
+![That was easy](images/d7dialoge.png)
